@@ -31,7 +31,7 @@
   "homepage": "https://github.com/perrin4869/i18next-fetch-backend#readme",
   "dependencies": {},
   "devDependencies": {
-    "@babel/cli": "^7.2.3",
+    "@babel/cli": "^7.6.0",
     "@babel/core": "^7.3.3",
     "@babel/plugin-proposal-class-properties": "^7.3.3",
     "@babel/preset-env": "^7.3.1",
